@@ -1,9 +1,6 @@
 # Abstract / Intro
 One of the ways to create beautiful art forms is to exaggerate linear motion and make it non-linear. Give it a heart. Make it bounce. Don’t just show something to the viewer, show it with feeling. This repo allows us to analyze how Disney animations follow this principle. Read more at: https://medium.com/@joshuaflori/how-does-disney-create-magical-animations-4880af66cbfb
 
-# Finished Example
-https://www.youtube.com/watch?v=R-_Po6Wv7Fo
-
 # Requirements 
 * A video editor (https://fxhome.com/express)
 * R
