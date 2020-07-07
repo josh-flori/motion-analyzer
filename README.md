@@ -1,5 +1,5 @@
 # Abstract / Intro
-The purpose of this project is to visualize the cadence of motion of a tracked video subject in a single dimension (x or y). This allows one to see the degree of linearity or non-linearity in motion of a particular subject. In the case of animation, this is a useful study tool as one can isolate a dimension of movement and better learn the established art form. 
+One of the ways to create beautiful art forms is to exaggerate linear motion and make it non-linear. Give it a heart. Make it bounce. Don’t just show something to the viewer, show it with feeling. This repo allows us to analyze how Disney animations follow this principle. Read more at: https://medium.com/@joshuaflori/how-does-disney-create-magical-animations-4880af66cbfb
 
 # Finished Example
 https://www.youtube.com/watch?v=R-_Po6Wv7Fo
